@@ -1,0 +1,23 @@
+  # cat=CATEGORY; type=int+; label=mm_forum Page-ID:Where is the forum located?
+forum_pid     =
+
+  # cat=CATEGORY; type=int+; label=mm_form Board-UID:In what board should the threads appear?
+forum_uid     =
+
+  # cat=CATEGORY; type=int+; label=mm_forum Storage-PID:
+storagePID    =
+
+  # cat=CATEGORY; type=int+; label=Author-ID:UID of a FE-User
+topic_poster  =
+
+  # cat=CATEGORY; type=string; label=Topic is ...?:Example: "Foo", Topic = [Foo] My Topic! 0 = Nothing
+topic_is      = News
+
+  # cat=CATEGORY; type=boolean; label=Hide new topics?:Not working yet
+hide          = 0
+
+  # cat=CATEGORY; type=boolean; label=Create a link in the news?:Create automatically a link in the news to the post in the forum
+link          = 0
+
+  # cat=CATEGORY; type=string; label=Name of the link for the News to the forum post
+link_title    = Discuss the news in our forum
